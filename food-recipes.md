@@ -8,6 +8,7 @@
 - [Entrees](#entrees)
     - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
+    - [Chicken Shawarma](#chicken-shawarma)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
     - [Banana bread](#banana-bread)
