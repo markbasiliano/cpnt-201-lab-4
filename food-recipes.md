@@ -85,6 +85,7 @@ Ingredients:
 - Tomato
 - Mayonnaise
 - Cilantro
+- Sriracha
 
 Instructions:
 1. Preheat grill to medium-high heat.
