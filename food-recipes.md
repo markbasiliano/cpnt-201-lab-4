@@ -95,6 +95,34 @@ Instructions:
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
+### Chicken Shawarma
+
+Ingredients:
+- 2 tablespoons olive oil
+- 1 tablespoon water
+- 1 tablespoon lemon zest
+- 1 tablespoon freshly squeezed lemon juice
+- 3 cloves garlic, minced
+- 2 teaspoons ground coriander
+- 2 teaspoons sweet paprika
+- 2 teaspoons ground cumin
+- 1 teaspoon ground turmeric
+- 1/2 teaspoon ground cinnamon
+- 1/2 teaspoon ground ginger
+- 1/4 teaspoon cayenne pepper
+- 1/4 teaspoon ground cardamom
+- Kosher salt and freshly ground black pepper, to taste
+- 2 pounds boneless, skinless chicken thighs
+- 1 1/2 tablespoons canola oil
+
+Instructions:
+1. In a medium bowl, whisk together olive oil, water, lemon zest, lemon juice, garlic, coriander, paprika, cumin, turmeric, cinnamon, ginger, cayenne pepper, cardamom, 1 teaspoon salt and 1/2 teaspoon pepper.
+2. In a gallon size Ziploc bag or large bowl, combine chicken and olive oil mixture; marinate for at least 2 hours to overnight, turning the bag occasionally. Drain the chicken from the marinade.
+3. Preheat grill to medium high heat.
+4. Brush chicken with canola oil; season with salt and pepper, to taste.
+5. Add chicken to grill, and cook, turning occasionally, until chicken is completely cooked through, reaching an internal temperature of 165 degrees F, about 10 minutes.
+6. Serve immediately with tzatziki sauce.
+
 ## Desserts
 ### Chocolate Chip Cookies
 
