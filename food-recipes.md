@@ -14,6 +14,8 @@
 
 
 ## Appetizers
+
+![spinach-artichoke-dip](/food-images/spinach-artichoke-dip.jpg)
 ### Spinach and Artichoke Dip
 
 Ingredients:
@@ -31,6 +33,7 @@ Instructions:
 4. Bake for 20-25 minutes or until lightly browned and bubbly.
 5. Serve hot with tortilla chips, pita chips, or crackers.
 
+![bruschetta](/food-images/bruschetta.jpg)
 ### Bruschetta
 
 Ingredients:
@@ -49,6 +52,7 @@ Instructions:
 4. Season with salt and pepper to taste.
 5. Top each toasted baguette slice with the tomato mixture.
 
+![salad-rolls](/food-images/salad-rolls.jpg)
 ### Salad Rolls
 
 Ingredients:
