@@ -74,6 +74,7 @@ Instructions:
 
 ## Entrees
 
+![spaghetti-and-meatballs](/food-images/spaghetti-meatballs.jpg)
 ### Spaghetti and Meatballs
 
 Ingredients:
@@ -98,6 +99,7 @@ Instructions:
 6. Reduce heat to low and let simmer for 10-15 minutes.
 7. Serve meatballs and sauce over spaghetti.
 
+![grilled-chicken-sandwich](/food-images/grilled-chicken-sandwich.jpg)
 ### Grilled Chicken Sandwich
 
 Ingredients:
@@ -120,6 +122,7 @@ Instructions:
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
+![chicken-shawarma](/food-images/chicken-shawarma.jpg)
 ### Chicken Shawarma
 
 Ingredients:
@@ -196,3 +199,26 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Leche Flan
+
+Ingredients:
+- 10 pieces eggs
+- 1 can condensed milk (14 oz)
+- 1 cup fresh milk or evaporated milk
+- 1 cup granulated sugar
+- 1 teaspoon vanilla extract
+
+Instructions:
+1. Using all the eggs, separate the yolk from the egg white (only egg yolks will be used).
+2. Place the egg yolks in a big bowl then beat them using a fork or an egg beater
+3. Add the condensed milk and mix thoroughly
+4. Pour-in the fresh milk and Vanilla. Mix well
+5. Put the mold (llanera) on top of the stove and heat using low fire
+6. Put-in the granulated sugar on the mold and mix thoroughly until the solid sugar turns into liquid (caramel) having a light brown color. Note: Sometimes it is hard to find a Llanera (Traditional flan mold) depending on your location. I find it more convenient to use individual Round Pans in making leche flan.
+7. Spread the caramel (liquid sugar) evenly on the flat side of the mold
+8. Wait for 5 minutes then pour the egg yolk and milk mixture on the mold
+9. Cover the top of the mold using an Aluminum foil
+10. Steam the mold with egg and milk mixture for 30 to 35 minutes.
+11. After steaming, let the temperature cool down then refrigerate
+12. Serve for dessert. Share and Enjoy!
