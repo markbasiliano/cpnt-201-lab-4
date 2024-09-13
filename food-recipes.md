@@ -4,6 +4,7 @@
 - [Appetizers](#appetizers)
     - [Spinach and Artichoke Dip](#spinach-and-artichoke-dip)
     - [Bruschetta](#bruschetta)
+    - [Salad Rolls](#salad-rolls)
 - [Entrees](#entrees)
     - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
@@ -64,7 +65,7 @@ Instructions:
 1. Start by placing a few pieces of lettuce about one-third from the bottom of the circular wrapper. The width of your fillings will determine the width of the spring roll. You want to leave a couple inches open on the two sides for wrapping purposes.
 2. Then, add the remaining ingredients. The exact order doesn’t matter much. Just pile them on top, making sure to take up the proper width. It’s ok if the fillings spill upward. I try to leave the top one-third of the wrapper open for wrapping.
 3. Gently pull the bottom of the wrapper up and over the lower portion of the filling. Try to keep the fillings compact as you roll upwards, just until the fillings are enveloped.
-4. Pull each side over to enclose the filling. Continue wrapping upward until your spring roll is fully wrapped!
+4. Pull each side over to enclose the filling. Continue wrapping upward until your spring roll is fully wrapped!git
 
 ## Entrees
 ### Spaghetti and Meatballs
